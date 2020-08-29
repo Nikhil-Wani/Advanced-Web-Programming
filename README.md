@@ -29,3 +29,30 @@ As mentioned before, HTML is one of the most widely used language over the web. 
 4. Offline support HTML pages once loaded can be made available offline on the machine without any need of internet.
 
 5. Game development- HTML5 has native support for rich experience and is now useful in gaming developent arena as well.
+
+HTML Tags
+As told earlier, HTML is a markup language and makes use of various tags to format the content. These tags are enclosed within angle braces <Tag Name>. Except few tags, most of the tags have their corresponding closing tags. For example, <html> has its closing tag </html> and <body> tag has its closing tag </body> tag etc.
+
+Above example of HTML document uses the following tags −
+
+Sr.No	Tag & Description
+1	<!DOCTYPE...>
+This tag defines the document type and HTML version.
+
+2	<html>
+This tag encloses the complete HTML document and mainly comprises of document header which is represented by <head>...</head> and document body which is represented by <body>...</body> tags.
+
+3	<head>
+This tag represents the document's header which can keep other HTML tags like <title>, <link> etc.
+
+4	<title>
+The <title> tag is used inside the <head> tag to mention the document title.
+
+5	<body>
+This tag represents the document's body which keeps other HTML tags like <h1>, <div>, <p> etc.
+
+6	<h1>
+This tag represents the heading.
+
+7	<p>
+This tag represents a paragraph.
