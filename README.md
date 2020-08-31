@@ -17,15 +17,11 @@ HTML is a MUST for students and working professionals to become a great Software
 
 4. Learn other languages - Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand.
 
-Applications of HTML
-As mentioned before, HTML is one of the most widely used language over the web. I'm going to list few of them here:
+# CSS
 
-1. Web pages development - HTML is used to create pages which are rendered over the web. Almost every page of web is having html tags in it to render its details in browser.
+What is CSS?
+1. CSS stands for Cascading Style Sheets
+2. CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+3. CSS saves a lot of work. It can control the layout of multiple web pages all at once
+4. External stylesheets are stored in CSS files
 
-2. Internet Navigation - HTML provides tags which are used to navigate from one page to another and is heavily used in internet navigation.
-
-3. Responsive UI - HTML pages now-a-days works well on all platform, mobile, tabs, desktop or laptops owing to responsive design strategy.
-
-4. Offline support HTML pages once loaded can be made available offline on the machine without any need of internet.
-
-5. Game development- HTML5 has native support for rich experience and is now useful in gaming developent arena as well.
