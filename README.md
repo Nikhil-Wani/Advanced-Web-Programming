@@ -83,15 +83,9 @@ Note: Self-describing data is the data that describes both its content and struc
 What is mark-up language?
 
 A mark up language is a modern system for highlight or underline a document.
-
 Students often underline or highlight a passage to revise easily, same in the sense of modern mark up language highlighting or underlining is replaced by tags.
-
-Prerequisite:
-
-Before you start to learn xml, you should know basic of HTML & JavaScript.
 
 Why xml?
 
 Platform Independent and Language Independent: The main benefit of xml is that you can use it to take data from a program like Microsoft SQL, convert it into XML then share that XML with other programs and platforms. You can communicate between two platforms which are generally very difficult.
-
 The main thing which makes XML truly powerful is its international acceptance. Many corporation use XML interfaces for databases, programming, office application mobile phones and more. It is due to its platform independent feature.
