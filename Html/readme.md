@@ -1,5 +1,7 @@
 <p><pre><code>
-Tag	Description
+
+# Tag	Description
+
 <!DOCTYPE> 	Defines the document type
 <html>	Defines an HTML document
 <head>	Contains metadata/information for the document
@@ -10,7 +12,9 @@ Tag	Description
 <br>	Inserts a single line break
 <hr>	Defines a thematic change in the content
 <!--...-->	Defines a comment
-Formatting
+  
+# Formatting
+
 Tag	Description
 <acronym>	Not supported in HTML5. Use <abbr> instead.
 Defines an acronym
@@ -71,7 +75,8 @@ Tag	Description
 <legend>	Defines a caption for a <fieldset> element
 <datalist>	Specifies a list of pre-defined options for input controls
 <output>	Defines the result of a calculation
-Frames
+
+# Frames
 Tag	Description
 <frame>	Not supported in HTML5.
 Defines a window (a frame) in a frameset
@@ -80,7 +85,8 @@ Defines a set of frames
 <noframes>	Not supported in HTML5.
 Defines an alternate content for users that do not support frames
 <iframe>	Defines an inline frame
-Images
+  
+# Images
 Tag	Description
 <img>	Defines an image
 <map>	Defines a client-side image map
@@ -90,18 +96,21 @@ Tag	Description
 <figure>	Specifies self-contained content
 <picture>	Defines a container for multiple image resources
 <svg>	Defines a container for SVG graphics
-Audio / Video
+
+# Audio / Video
 Tag	Description
 <audio>	Defines sound content
 <source>	Defines multiple media resources for media elements (<video>, <audio> and <picture>)
 <track>	Defines text tracks for media elements (<video> and <audio>)
 <video>	Defines a video or movie
-Links
+  
+# Links
 Tag	Description
 <a>	Defines a hyperlink
 <link>	Defines the relationship between a document and an external resource (most used to link to style sheets)
 <nav>	Defines navigation links
-Lists
+  
+# Lists
 Tag	Description
 <ul>	Defines an unordered list
 <ol>	Defines an ordered list
@@ -111,7 +120,8 @@ Defines a directory list
 <dl>	Defines a description list
 <dt>	Defines a term/name in a description list
 <dd>	Defines a description of a term/name in a description list
-Tables
+  
+# Tables
 Tag	Description
 <table>	Defines a table
 <caption>	Defines a table caption
@@ -123,7 +133,8 @@ Tag	Description
 <tfoot>	Groups the footer content in a table
 <col>	Specifies column properties for each column within a <colgroup> element
 <colgroup>	Specifies a group of one or more columns in a table for formatting
-Styles and Semantics
+  
+# Styles and Semantics
 Tag	Description
 <style>	Defines style information for a document
 <div>	Defines a section in a document
@@ -138,14 +149,17 @@ Tag	Description
 <dialog>	Defines a dialog box or window
 <summary>	Defines a visible heading for a <details> element
 <data>	Adds a machine-readable translation of a given content
-Meta Info
+  
+#Meta Info
+
 Tag	Description
 <head>	Defines information about the document
 <meta>	Defines metadata about an HTML document
 <base>	Specifies the base URL/target for all relative URLs in a document
 <basefont>	Not supported in HTML5. Use CSS instead.
 Specifies a default color, size, and font for all text in a document
-Programming
+  
+# Programming
 Tag	Description
 <script>	Defines a client-side script
 <noscript>	Defines an alternate content for users that do not support client-side scripts
