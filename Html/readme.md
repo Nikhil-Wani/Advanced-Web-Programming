@@ -1,4 +1,4 @@
-<pre>
+<p><pre><code>
 Tag	Description
 <!DOCTYPE> 	Defines the document type
 <html>	Defines an HTML document
@@ -154,4 +154,4 @@ Defines an embedded applet
 <embed>	Defines a container for an external (non-HTML) application
 <object>	Defines an embedded object
 <param>	Defines a parameter for an object
-</pre>
+</pre></code></p>
