@@ -1,7 +1,9 @@
 <p><pre><code>
 
-# Tag	Description
+# Basic html
+Tag	Description
 
+<pre><code>
 <!DOCTYPE> 	Defines the document type
 <html>	Defines an HTML document
 <head>	Contains metadata/information for the document
@@ -12,7 +14,7 @@
 <br>	Inserts a single line break
 <hr>	Defines a thematic change in the content
 <!--...-->	Defines a comment
-  
+  </pre></code>
 # Formatting
 
 Tag	Description
