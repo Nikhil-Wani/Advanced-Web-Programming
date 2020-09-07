@@ -3,8 +3,8 @@
 # Basic html
 Tag	Description
 
-<pre><code>
-<!DOCTYPE> 	Defines the document type
+
+<p><!DOCTYPE> 	Defines the document type</p>
 <html>	Defines an HTML document
 <head>	Contains metadata/information for the document
 <title>	Defines a title for the document
