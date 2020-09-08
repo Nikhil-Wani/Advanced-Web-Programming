@@ -37,6 +37,32 @@ To solve this problem, the World Wide Web Consortium (W3C) created CSS.
 
 CSS removed the style formatting from the HTML page!
 
+# Xml
+
+What is xml?
+
+1. Xml (eXtensible Markup Language) is a mark up language.
+2. XML is designed to store and transport data.
+3. Xml was released in late 90’s. it was created to provide an easy to use and store self describing data.
+4. XML became a W3C Recommendation on February 10, 1998.
+5. XML is not a replacement for HTML.
+6. XML is designed to be self-descriptive.
+7. XML is designed to carry data, not to display data.
+8. XML tags are not predefined. You must define your own tags.
+9. XML is platform independent and language independent.
+
+Note: Self-describing data is the data that describes both its content and structure.
+
+What is mark-up language?
+
+A mark up language is a modern system for highlight or underline a document.
+Students often underline or highlight a passage to revise easily, same in the sense of modern mark up language highlighting or underlining is replaced by tags.
+
+Why xml?
+
+Platform Independent and Language Independent: The main benefit of xml is that you can use it to take data from a program like Microsoft SQL, convert it into XML then share that XML with other programs and platforms. You can communicate between two platforms which are generally very difficult.
+The main thing which makes XML truly powerful is its international acceptance. Many corporation use XML interfaces for databases, programming, office application mobile phones and more. It is due to its platform independent feature.
+
 # Php
 
 What is PHP?
@@ -64,28 +90,4 @@ What Can PHP Do?
 
 With PHP you are not limited to output HTML. You can output images, PDF files, and even Flash movies. You can also output any text, such as XHTML and XML.
 
-# Xml
 
-What is xml?
-
-1. Xml (eXtensible Markup Language) is a mark up language.
-2. XML is designed to store and transport data.
-3. Xml was released in late 90’s. it was created to provide an easy to use and store self describing data.
-4. XML became a W3C Recommendation on February 10, 1998.
-5. XML is not a replacement for HTML.
-6. XML is designed to be self-descriptive.
-7. XML is designed to carry data, not to display data.
-8. XML tags are not predefined. You must define your own tags.
-9. XML is platform independent and language independent.
-
-Note: Self-describing data is the data that describes both its content and structure.
-
-What is mark-up language?
-
-A mark up language is a modern system for highlight or underline a document.
-Students often underline or highlight a passage to revise easily, same in the sense of modern mark up language highlighting or underlining is replaced by tags.
-
-Why xml?
-
-Platform Independent and Language Independent: The main benefit of xml is that you can use it to take data from a program like Microsoft SQL, convert it into XML then share that XML with other programs and platforms. You can communicate between two platforms which are generally very difficult.
-The main thing which makes XML truly powerful is its international acceptance. Many corporation use XML interfaces for databases, programming, office application mobile phones and more. It is due to its platform independent feature.
