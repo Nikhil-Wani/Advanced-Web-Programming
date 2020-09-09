@@ -4,7 +4,7 @@
 
 HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. HTML was created by Berners-Lee in late 1991 but "HTML 2.0" was the first standard HTML specification which was published in 1995. HTML 4.01 was a major version of HTML and it was published in late 1999. Though HTML 4.01 version is widely used but currently we are having HTML-5 version which is an extension to HTML 4.01, and this version was published in 2012.
 
-Why to Learn HTML?
+<b>Why to Learn HTML?</b>
 
 Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language.
 HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:
@@ -16,14 +16,14 @@ HTML is a MUST for students and working professionals to become a great Software
 
 # CSS
 
-What is CSS?
+<b>What is CSS?</b>
 
 1. CSS stands for Cascading Style Sheets
 2. CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 3. CSS saves a lot of work. It can control the layout of multiple web pages all at once
 4. External stylesheets are stored in CSS files
 
-CSS Solved a Big Problem?
+<b>CSS Solved a Big Problem?</b>
 
 HTML was NEVER intended to contain tags for formatting a web page!
 HTML was created to describe the content of a web page. 
@@ -33,7 +33,7 @@ CSS removed the style formatting from the HTML page!
 
 # Xml
 
-What is xml?
+<b>What is xml?</b>
 
 1. Xml (eXtensible Markup Language) is a mark up language.
 2. XML is designed to store and transport data.
@@ -46,32 +46,32 @@ What is xml?
 9. XML is platform independent and language independent.
 Note: Self-describing data is the data that describes both its content and structure.
 
-What is mark-up language?
+<b>What is mark-up language?</b>
 
 A mark up language is a modern system for highlight or underline a document.
 Students often underline or highlight a passage to revise easily, same in the sense of modern mark up language highlighting or underlining is replaced by tags.
 
-Why xml?
+<b>Why xml?</b>
 
 Platform Independent and Language Independent: The main benefit of xml is that you can use it to take data from a program like Microsoft SQL, convert it into XML then share that XML with other programs and platforms. You can communicate between two platforms which are generally very difficult.
 The main thing which makes XML truly powerful is its international acceptance. Many corporation use XML interfaces for databases, programming, office application mobile phones and more. It is due to its platform independent feature.
 
 # Php
 
-What is PHP?
+<b>What is PHP?</b>
 
 1. PHP is an acronym for "PHP: Hypertext Preprocessor"
 2. PHP is a widely-used, open source scripting language
 3. PHP scripts are executed on the server
 4. PHP is free to download and use
 
-What is a PHP File?
+<b>What is a PHP File?</b>
 
 1. PHP files can contain text, HTML, CSS, JavaScript, and PHP code
 2. PHP code is executed on the server, and the result is returned to the browser as plain HTML
 3. PHP files have extension ".php"
 
-What Can PHP Do?
+<b>What Can PHP Do?</b>
 
 1. PHP can generate dynamic page content
 2. PHP can create, open, read, write, delete, and close files on the server
@@ -84,7 +84,7 @@ With PHP you are not limited to output HTML. You can output images, PDF files, a
 
 # Bootstrap
 
-What is Bootstrap?
+<b>What is Bootstrap?</b>
 
 Bootstrap is the most popular HTML, CSS and JavaScript framework for developing a responsive and mobile friendly website.
 1. It is absolutely free to download and use.
@@ -93,18 +93,18 @@ Bootstrap is the most popular HTML, CSS and JavaScript framework for developing 
 4. It can also use JavaScript plug-ins.
 5. It facilitates you to create responsive designs.
 
-Why use Bootstrap?
+<b>Why use Bootstrap?</b>
 
 Following are the main advantage of Bootstrap:
 1. It is very easy to use. Anybody having basic knowledge of HTML and CSS can use Bootstrap.
 2. It facilitates users to develop a responsive website.
 3. It is compatible on most of browsers like Chrome, Firefox, Internet Explorer, Safari and Opera etc.
 
-What is a responsive website?
+<b>What is a responsive website?</b>
 
 A website is called responsive website which can automatically adjust itself to look good on all devices, from smart phones to desktops etc.
 
-What Bootstrap package contains?
+<b>What Bootstrap package contains?</b>
 
 1. Scaffolding: Bootstrap provides a basic structure with Grid System, link styles, and background.
 2. CSS: Bootstrap comes with the feature of global CSS settings, fundamental HTML elements style and an advanced grid system.
