@@ -7,8 +7,8 @@ HTML stands for Hyper Text Markup Language, which is the most widely used langua
 <b>Why to Learn HTML?</b>
 
 Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language.
-HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:
 
+HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:
 1. Create Web site - You can create a website or customize an existing web template if you know HTML well.
 2. Become a web designer - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill.
 3. Understand web - If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results.
@@ -26,9 +26,13 @@ HTML is a MUST for students and working professionals to become a great Software
 <b>CSS Solved a Big Problem?</b>
 
 HTML was NEVER intended to contain tags for formatting a web page!
+
 HTML was created to describe the content of a web page. 
+
 When tags like font, and color attributes were added to the HTML 3.2 specification, it started a nightmare for web developers. Development of large websites, where fonts and color information were added to every single page, became a long and expensive process.
+
 To solve this problem, the World Wide Web Consortium (W3C) created CSS.
+
 CSS removed the style formatting from the HTML page!
 
 # Xml
@@ -44,6 +48,7 @@ CSS removed the style formatting from the HTML page!
 7. XML is designed to carry data, not to display data.
 8. XML tags are not predefined. You must define your own tags.
 9. XML is platform independent and language independent.
+
 Note: Self-describing data is the data that describes both its content and structure.
 
 <b>What is mark-up language?</b>
@@ -54,6 +59,7 @@ Students often underline or highlight a passage to revise easily, same in the se
 <b>Why xml?</b>
 
 Platform Independent and Language Independent: The main benefit of xml is that you can use it to take data from a program like Microsoft SQL, convert it into XML then share that XML with other programs and platforms. You can communicate between two platforms which are generally very difficult.
+
 The main thing which makes XML truly powerful is its international acceptance. Many corporation use XML interfaces for databases, programming, office application mobile phones and more. It is due to its platform independent feature.
 
 # Php
